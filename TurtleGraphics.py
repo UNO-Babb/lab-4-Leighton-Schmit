@@ -43,7 +43,12 @@ def fillCorner(myTurtle,corner):
         #drawSquare(myTurtle, size)
         #size = size + 20
         #myTurtle.up()
-        #
+        #myTurtle.right(180)
+        #myTurtle.foward(10)
+        #myTurtle.right(90)
+        #myTurtle.forward(10)
+        #myTurtle.right(90)
+        #myTurtle.down()
 
 def main():
     myTurtle = turtle.Turtle()
